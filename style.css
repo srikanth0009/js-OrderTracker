@@ -32,6 +32,7 @@ hr{
 }
  #first, #second, #third, #fourth{
     width:40px;
+    max-width:60px;
     height:40px;
     background-color: rgb(188, 181, 181);
     border-radius: 50%;
