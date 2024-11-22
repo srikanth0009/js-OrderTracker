@@ -46,7 +46,6 @@ hr{
 
  #line1, #line2, #line3{
     width:430px;
-    max-width:600px;
     height:5px;
     background-color: grey;
     margin-bottom:18px;
