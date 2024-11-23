@@ -44,7 +44,7 @@ data.addEventListener('click', () => {
 
         let circles = document.getElementById(newName);
 
-        circles.style.backgroundColor = 'red';
+        circles.style.backgroundColor = 'rgb(7, 205, 113)';
         circles.innerHTML = '✔️';
 
         if(circles.nextElementSibling){
